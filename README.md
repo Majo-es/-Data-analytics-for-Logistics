@@ -17,3 +17,15 @@
 <img width="1155" alt="Screenshot 2025-03-06 at 22 54 35" src="https://github.com/user-attachments/assets/bbaccc3c-338e-41e4-9eeb-2257d6928cbe" />
 <img width="1169" alt="Screenshot 2025-03-06 at 22 55 03" src="https://github.com/user-attachments/assets/9d4c1cbb-28a8-452a-bf80-5f57101d3d2f" />
 <img width="1157" alt="Screenshot 2025-03-06 at 22 55 26" src="https://github.com/user-attachments/assets/a98d1c1f-42f1-4a5e-ac4c-8e5f869d9b51" />
+
+### Ejemplo MaxCover:
+<img width="1085" alt="Screenshot 2025-03-21 at 10 22 45" src="https://github.com/user-attachments/assets/6e376bf4-2d32-4c26-85f8-7a3b0cc62d6c" />
+<img width="1089" alt="Screenshot 2025-03-21 at 10 23 50" src="https://github.com/user-attachments/assets/6cdabc27-0bd9-4c22-8ff0-db63709237f9" />
+
+### Ejemplo BurritoGame:
+<img width="801" alt="Screenshot 2025-03-21 at 10 24 47" src="https://github.com/user-attachments/assets/468050f8-9fc7-4cda-8853-d8dd17085d4c" />
+<img width="539" alt="Screenshot 2025-03-21 at 10 25 13" src="https://github.com/user-attachments/assets/4ecfce18-aa1e-4022-ad98-cf921570cdd6" />
+
+
+
+
